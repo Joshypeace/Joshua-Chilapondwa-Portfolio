@@ -24,7 +24,7 @@ export function AboutSection() {
               {/* Image placeholder */}
               <div className="order-2 md:order-1">
                 <div className="relative aspect-square rounded-2xl overflow-hidden bg-gradient-to-br from-primary/20 to-accent/20 border border-primary/20">
-                  <Image src="/professional-developer-portrait.png" alt="Joshua Chilapondwa" fill className="object-cover" />
+                  <Image src="/JOSH.jpg" alt="Joshua Chilapondwa" fill className="object-cover" />
                 </div>
               </div>
 
